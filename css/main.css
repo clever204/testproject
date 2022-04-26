@@ -1,1 +1,13 @@
-s
+* {
+  box-sizing: border-box;
+  font-family: Tahoma;
+}
+body {
+  height: 100vh;
+  background-color: #333333;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+}
